@@ -1,0 +1,8 @@
+E:\c# assignment\pratice-projects\pratice-projects\bin\Debug\pratice-projects.exe.config
+E:\c# assignment\pratice-projects\pratice-projects\bin\Debug\pratice-projects.exe
+E:\c# assignment\pratice-projects\pratice-projects\bin\Debug\pratice-projects.pdb
+E:\c# assignment\pratice-projects\pratice-projects\obj\Debug\pratice-projects.csproj.AssemblyReference.cache
+E:\c# assignment\pratice-projects\pratice-projects\obj\Debug\pratice-projects.csproj.SuggestedBindingRedirects.cache
+E:\c# assignment\pratice-projects\pratice-projects\obj\Debug\pratice-projects.csproj.CoreCompileInputs.cache
+E:\c# assignment\pratice-projects\pratice-projects\obj\Debug\pratice-projects.exe
+E:\c# assignment\pratice-projects\pratice-projects\obj\Debug\pratice-projects.pdb
