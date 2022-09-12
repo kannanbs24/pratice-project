@@ -1,0 +1,8 @@
+E:\c# assignment\sort_and_search_prohect\sort_and_search_prohect\bin\Debug\sort_and_search_prohect.exe.config
+E:\c# assignment\sort_and_search_prohect\sort_and_search_prohect\bin\Debug\sort_and_search_prohect.exe
+E:\c# assignment\sort_and_search_prohect\sort_and_search_prohect\bin\Debug\sort_and_search_prohect.pdb
+E:\c# assignment\sort_and_search_prohect\sort_and_search_prohect\obj\Debug\sort_and_search_project.csproj.AssemblyReference.cache
+E:\c# assignment\sort_and_search_prohect\sort_and_search_prohect\obj\Debug\sort_and_search_project.csproj.SuggestedBindingRedirects.cache
+E:\c# assignment\sort_and_search_prohect\sort_and_search_prohect\obj\Debug\sort_and_search_project.csproj.CoreCompileInputs.cache
+E:\c# assignment\sort_and_search_prohect\sort_and_search_prohect\obj\Debug\sort_and_search_prohect.exe
+E:\c# assignment\sort_and_search_prohect\sort_and_search_prohect\obj\Debug\sort_and_search_prohect.pdb
