@@ -1,0 +1,12 @@
+E:\c# assignment\oops\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\c# assignment\oops\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\c# assignment\oops\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+E:\c# assignment\oops\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\c# assignment\oops\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\c# assignment\oops\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+E:\c# assignment\oops project\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\c# assignment\oops project\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\c# assignment\oops project\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+E:\c# assignment\oops project\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\c# assignment\oops project\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\c# assignment\oops project\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

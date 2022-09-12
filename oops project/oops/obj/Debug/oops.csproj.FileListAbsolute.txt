@@ -1,0 +1,22 @@
+E:\c# assignment\oops\oops\bin\Debug\oops.exe.config
+E:\c# assignment\oops\oops\bin\Debug\oops.exe
+E:\c# assignment\oops\oops\bin\Debug\oops.pdb
+E:\c# assignment\oops\oops\obj\Debug\oops.csproj.AssemblyReference.cache
+E:\c# assignment\oops\oops\obj\Debug\oops.csproj.SuggestedBindingRedirects.cache
+E:\c# assignment\oops\oops\obj\Debug\oops.csproj.CoreCompileInputs.cache
+E:\c# assignment\oops\oops\obj\Debug\oops.exe
+E:\c# assignment\oops\oops\obj\Debug\oops.pdb
+E:\c# assignment\oops\oops\bin\Debug\ClassLibrary1.dll
+E:\c# assignment\oops\oops\bin\Debug\ClassLibrary1.pdb
+E:\c# assignment\oops\oops\obj\Debug\oops.csproj.CopyComplete
+E:\c# assignment\oops project\oops\bin\Debug\oops.exe.config
+E:\c# assignment\oops project\oops\bin\Debug\oops.exe
+E:\c# assignment\oops project\oops\bin\Debug\oops.pdb
+E:\c# assignment\oops project\oops\bin\Debug\ClassLibrary1.dll
+E:\c# assignment\oops project\oops\bin\Debug\ClassLibrary1.pdb
+E:\c# assignment\oops project\oops\obj\Debug\oops.csproj.AssemblyReference.cache
+E:\c# assignment\oops project\oops\obj\Debug\oops.csproj.SuggestedBindingRedirects.cache
+E:\c# assignment\oops project\oops\obj\Debug\oops.csproj.CoreCompileInputs.cache
+E:\c# assignment\oops project\oops\obj\Debug\oops.csproj.CopyComplete
+E:\c# assignment\oops project\oops\obj\Debug\oops.exe
+E:\c# assignment\oops project\oops\obj\Debug\oops.pdb
