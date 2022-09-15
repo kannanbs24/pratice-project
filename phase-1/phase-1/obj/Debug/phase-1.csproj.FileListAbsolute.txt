@@ -1,0 +1,8 @@
+E:\c# assignment\phase-1\phase-1\bin\Debug\phase-1.exe.config
+E:\c# assignment\phase-1\phase-1\bin\Debug\phase-1.exe
+E:\c# assignment\phase-1\phase-1\bin\Debug\phase-1.pdb
+E:\c# assignment\phase-1\phase-1\obj\Debug\phase-1.csproj.AssemblyReference.cache
+E:\c# assignment\phase-1\phase-1\obj\Debug\phase-1.csproj.SuggestedBindingRedirects.cache
+E:\c# assignment\phase-1\phase-1\obj\Debug\phase-1.csproj.CoreCompileInputs.cache
+E:\c# assignment\phase-1\phase-1\obj\Debug\phase-1.exe
+E:\c# assignment\phase-1\phase-1\obj\Debug\phase-1.pdb

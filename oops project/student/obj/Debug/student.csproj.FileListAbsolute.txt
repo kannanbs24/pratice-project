@@ -1,6 +1,0 @@
-E:\c# assignment\oops\student\bin\Debug\student.dll
-E:\c# assignment\oops\student\bin\Debug\student.pdb
-E:\c# assignment\oops\student\obj\Debug\student.csproj.AssemblyReference.cache
-E:\c# assignment\oops\student\obj\Debug\student.csproj.CoreCompileInputs.cache
-E:\c# assignment\oops\student\obj\Debug\student.dll
-E:\c# assignment\oops\student\obj\Debug\student.pdb
