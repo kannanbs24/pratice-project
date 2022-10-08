@@ -1,0 +1,6 @@
+E:\c# assignment\school_management\data\bin\Debug\data.dll
+E:\c# assignment\school_management\data\bin\Debug\data.pdb
+E:\c# assignment\school_management\data\obj\Debug\data.csproj.AssemblyReference.cache
+E:\c# assignment\school_management\data\obj\Debug\data.csproj.CoreCompileInputs.cache
+E:\c# assignment\school_management\data\obj\Debug\data.dll
+E:\c# assignment\school_management\data\obj\Debug\data.pdb

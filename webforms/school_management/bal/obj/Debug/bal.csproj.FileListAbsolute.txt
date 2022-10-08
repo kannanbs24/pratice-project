@@ -1,0 +1,6 @@
+E:\c# assignment\school_management\bal\bin\Debug\bal.dll
+E:\c# assignment\school_management\bal\bin\Debug\bal.pdb
+E:\c# assignment\school_management\bal\obj\Debug\bal.csproj.AssemblyReference.cache
+E:\c# assignment\school_management\bal\obj\Debug\bal.csproj.CoreCompileInputs.cache
+E:\c# assignment\school_management\bal\obj\Debug\bal.dll
+E:\c# assignment\school_management\bal\obj\Debug\bal.pdb

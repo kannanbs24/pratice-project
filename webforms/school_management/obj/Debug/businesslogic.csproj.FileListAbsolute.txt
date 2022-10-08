@@ -1,0 +1,2 @@
+E:\c# assignment\school_management\obj\Debug\businesslogic.csproj.AssemblyReference.cache
+E:\c# assignment\school_management\obj\Debug\businesslogic.csproj.CoreCompileInputs.cache

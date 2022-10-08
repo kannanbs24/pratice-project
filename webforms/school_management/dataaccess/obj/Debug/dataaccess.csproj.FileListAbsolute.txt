@@ -1,0 +1,9 @@
+E:\c# assignment\school_management\dataaccess\bin\Debug\dataaccess.dll
+E:\c# assignment\school_management\dataaccess\bin\Debug\dataaccess.pdb
+E:\c# assignment\school_management\dataaccess\obj\Debug\dataaccess.csproj.AssemblyReference.cache
+E:\c# assignment\school_management\dataaccess\obj\Debug\dataaccess.csproj.CoreCompileInputs.cache
+E:\c# assignment\school_management\dataaccess\obj\Debug\dataaccess.dll
+E:\c# assignment\school_management\dataaccess\obj\Debug\dataaccess.pdb
+E:\c# assignment\school_management\dataaccess\obj\Debug\dataaccess.csproj.CopyComplete
+E:\c# assignment\school_management\dataaccess\bin\Debug\bal.dll
+E:\c# assignment\school_management\dataaccess\bin\Debug\bal.pdb
