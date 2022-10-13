@@ -1,0 +1,11 @@
+E:\c# assignment\webapi\hellperlib\bin\Debug\hellperlib.dll
+E:\c# assignment\webapi\hellperlib\bin\Debug\hellperlib.pdb
+E:\c# assignment\webapi\hellperlib\obj\Debug\hellperlib.csproj.AssemblyReference.cache
+E:\c# assignment\webapi\hellperlib\obj\Debug\hellperlib.csproj.CoreCompileInputs.cache
+E:\c# assignment\webapi\hellperlib\obj\Debug\hellperlib.dll
+E:\c# assignment\webapi\hellperlib\obj\Debug\hellperlib.pdb
+E:\c# assignment\webapi\hellperlib\bin\Debug\ballib.dll
+E:\c# assignment\webapi\hellperlib\bin\Debug\dallib.dll
+E:\c# assignment\webapi\hellperlib\bin\Debug\ballib.pdb
+E:\c# assignment\webapi\hellperlib\bin\Debug\dallib.pdb
+E:\c# assignment\webapi\hellperlib\obj\Debug\hellperlib.csproj.CopyComplete

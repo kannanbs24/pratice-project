@@ -1,0 +1,6 @@
+E:\c# assignment\webapi\ballib\bin\Debug\ballib.dll
+E:\c# assignment\webapi\ballib\bin\Debug\ballib.pdb
+E:\c# assignment\webapi\ballib\obj\Debug\ballib.csproj.AssemblyReference.cache
+E:\c# assignment\webapi\ballib\obj\Debug\ballib.csproj.CoreCompileInputs.cache
+E:\c# assignment\webapi\ballib\obj\Debug\ballib.dll
+E:\c# assignment\webapi\ballib\obj\Debug\ballib.pdb
