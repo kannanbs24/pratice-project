@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 namespace bal
 {
    
-    public partial class EmpProfiles
+    public  class EmpProfiles
     {
         [Key]
         public int EmpCode { get; set; }    

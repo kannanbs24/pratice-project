@@ -84,5 +84,24 @@ namespace dal
             context.emptable.Remove(ans);
             context.SaveChanges();
         }
+        public EmpProfiles search(int id)
+        {
+            MyContext context = new MyContext();
+            var customers = context.emptable.ToList();
+            var obj = customers.Find(cust => cust.EmpCode == id);
+
+            // List<BLClass1> cblist = new List<BLClass1>();
+            EmpProfiles b = new EmpProfiles();
+            b.EmpName = obj.EmpName;
+            b.EmpCode = obj.EmpCode;
+            b.Email = obj.Email;
+            b.DeptCode = obj.DeptCode;
+            
+
+
+            return b;
+
+            //context.SaveChanges();
+        }
     }
 }

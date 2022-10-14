@@ -93,8 +93,24 @@ namespace emsfullstack.Controllers
            
 
         }
-     
-       
+        [Route("FindById/{id:int?}")]
+        public empmodel GetMarkByID(int id)
+        {
+            EmpProfiles empbal = new EmpProfiles();
+            empbal = obj.search(id);
+            empmodel emp = new empmodel();
+           
+            emp.EmpCode = id;
+            emp.EmpName = empbal.EmpName;
+            emp.Email = empbal.Email;
+            emp.DeptCode = empbal.DeptCode;
+           
+
+            return emp;
+
+        }
+
+
 
     }
 }
