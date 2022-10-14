@@ -1,0 +1,15 @@
+E:\c# assignment\emsfullstack\dal\bin\Debug\dal.dll
+E:\c# assignment\emsfullstack\dal\bin\Debug\dal.pdb
+E:\c# assignment\emsfullstack\dal\obj\Debug\dal.csproj.AssemblyReference.cache
+E:\c# assignment\emsfullstack\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+E:\c# assignment\emsfullstack\dal\obj\Debug\dal.dll
+E:\c# assignment\emsfullstack\dal\obj\Debug\dal.pdb
+E:\c# assignment\emsfullstack\dal\bin\Debug\dal.dll.config
+E:\c# assignment\emsfullstack\dal\bin\Debug\bal.dll
+E:\c# assignment\emsfullstack\dal\bin\Debug\EntityFramework.dll
+E:\c# assignment\emsfullstack\dal\bin\Debug\EntityFramework.SqlServer.dll
+E:\c# assignment\emsfullstack\dal\bin\Debug\bal.pdb
+E:\c# assignment\emsfullstack\dal\bin\Debug\bal.dll.config
+E:\c# assignment\emsfullstack\dal\bin\Debug\EntityFramework.xml
+E:\c# assignment\emsfullstack\dal\bin\Debug\EntityFramework.SqlServer.xml
+E:\c# assignment\emsfullstack\dal\obj\Debug\dal.csproj.CopyComplete
