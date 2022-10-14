@@ -73,7 +73,10 @@ namespace webapi.Controllers
         }
 
         // PUT api/<controller>/5
-        public HttpResponseMessage Putmarks(int id, [FromBody] marksmodel empdata)
+        [HttpPut]
+       
+       
+        public HttpResponseMessage Putmarks([FromBody] marksmodel empdata)
         {
 
             BAL empbal = new BAL();
@@ -81,7 +84,7 @@ namespace webapi.Controllers
             empbal.student_name = empdata.student_name;
             empbal.subject_marks = empdata.subject_marks;
 
-            bool ans = obj.Addmarks(empbal);
+            bool ans = obj.Editmarks(empbal);
             if (ans)
             {
                 return Request.CreateResponse(HttpStatusCode.OK);
