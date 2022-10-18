@@ -1,0 +1,6 @@
+E:\c# assignment\e-commerce\BAL\bin\Debug\BAL.dll
+E:\c# assignment\e-commerce\BAL\bin\Debug\BAL.pdb
+E:\c# assignment\e-commerce\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+E:\c# assignment\e-commerce\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+E:\c# assignment\e-commerce\BAL\obj\Debug\BAL.dll
+E:\c# assignment\e-commerce\BAL\obj\Debug\BAL.pdb

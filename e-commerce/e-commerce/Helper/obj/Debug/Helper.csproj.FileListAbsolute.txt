@@ -1,0 +1,11 @@
+E:\c# assignment\e-commerce\Helper\bin\Debug\Helper.dll
+E:\c# assignment\e-commerce\Helper\bin\Debug\Helper.pdb
+E:\c# assignment\e-commerce\Helper\obj\Debug\Helper.csproj.AssemblyReference.cache
+E:\c# assignment\e-commerce\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+E:\c# assignment\e-commerce\Helper\obj\Debug\Helper.dll
+E:\c# assignment\e-commerce\Helper\obj\Debug\Helper.pdb
+E:\c# assignment\e-commerce\Helper\bin\Debug\BAL.dll
+E:\c# assignment\e-commerce\Helper\bin\Debug\DAL.dll
+E:\c# assignment\e-commerce\Helper\bin\Debug\BAL.pdb
+E:\c# assignment\e-commerce\Helper\bin\Debug\DAL.pdb
+E:\c# assignment\e-commerce\Helper\obj\Debug\Helper.csproj.CopyComplete

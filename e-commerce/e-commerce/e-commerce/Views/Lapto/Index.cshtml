@@ -1,0 +1,51 @@
+﻿@model IEnumerable<e_commerce.Models.laptop>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.laptop_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.laptop_name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cost)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Descr)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.laptop_id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.laptop_name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cost)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Descr)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.laptop_id }) |
+            @Html.ActionLink("Details", "Details", new {  id=item.laptop_id}) |
+            @Html.ActionLink("Delete", "Delete", new {  id=item.laptop_id })
+        </td>
+    </tr>
+}
+
+</table>

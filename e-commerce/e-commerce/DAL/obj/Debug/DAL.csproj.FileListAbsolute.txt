@@ -1,0 +1,9 @@
+E:\c# assignment\e-commerce\DAL\bin\Debug\DAL.dll
+E:\c# assignment\e-commerce\DAL\bin\Debug\DAL.pdb
+E:\c# assignment\e-commerce\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\c# assignment\e-commerce\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\c# assignment\e-commerce\DAL\obj\Debug\DAL.dll
+E:\c# assignment\e-commerce\DAL\obj\Debug\DAL.pdb
+E:\c# assignment\e-commerce\DAL\bin\Debug\BAL.dll
+E:\c# assignment\e-commerce\DAL\bin\Debug\BAL.pdb
+E:\c# assignment\e-commerce\DAL\obj\Debug\DAL.csproj.CopyComplete
