@@ -1,0 +1,6 @@
+E:\c# assignment\oop class\oop class\bin\Debug\oop class.dll
+E:\c# assignment\oop class\oop class\bin\Debug\oop class.pdb
+E:\c# assignment\oop class\oop class\obj\Debug\oop class.csproj.AssemblyReference.cache
+E:\c# assignment\oop class\oop class\obj\Debug\oop class.csproj.CoreCompileInputs.cache
+E:\c# assignment\oop class\oop class\obj\Debug\oop class.dll
+E:\c# assignment\oop class\oop class\obj\Debug\oop class.pdb

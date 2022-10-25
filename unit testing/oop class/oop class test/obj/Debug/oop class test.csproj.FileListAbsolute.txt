@@ -1,0 +1,17 @@
+E:\c# assignment\oop class\oop class test\bin\Debug\oop class test.dll
+E:\c# assignment\oop class\oop class test\bin\Debug\oop class test.pdb
+E:\c# assignment\oop class\oop class test\obj\Debug\oop class test.csproj.AssemblyReference.cache
+E:\c# assignment\oop class\oop class test\obj\Debug\oop class test.csproj.CoreCompileInputs.cache
+E:\c# assignment\oop class\oop class test\obj\Debug\oop class test.dll
+E:\c# assignment\oop class\oop class test\obj\Debug\oop class test.pdb
+E:\c# assignment\oop class\oop class test\bin\Debug\oop class.dll
+E:\c# assignment\oop class\oop class test\bin\Debug\oop class.pdb
+E:\c# assignment\oop class\oop class test\obj\Debug\oop class test.csproj.CopyComplete
+E:\c# assignment\oop class\oop class test\bin\Debug\NUnit3.TestAdapter.dll
+E:\c# assignment\oop class\oop class test\bin\Debug\NUnit3.TestAdapter.pdb
+E:\c# assignment\oop class\oop class test\bin\Debug\nunit.engine.dll
+E:\c# assignment\oop class\oop class test\bin\Debug\nunit.engine.api.dll
+E:\c# assignment\oop class\oop class test\bin\Debug\nunit.engine.core.dll
+E:\c# assignment\oop class\oop class test\bin\Debug\testcentric.engine.metadata.dll
+E:\c# assignment\oop class\oop class test\bin\Debug\nunit.framework.dll
+E:\c# assignment\oop class\oop class test\bin\Debug\nunit.framework.xml
